@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DIOcontentProvider</string>
+    <string name="remover">remover</string>
+    <string name="note_title_hint">Title</string>
+    <string name="note_descrition_hint">Descrição</string>
+</resources>
