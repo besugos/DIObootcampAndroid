@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DIOphotos</string>
+    <string name="image">Imagem a ser selecionada pelo usuário</string>
+    <string name="selecione_uma_imagem">Selecione uma imagem</string>
+</resources>
